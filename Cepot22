@@ -1,0 +1,5 @@
+https://gitkraken.dev/connect?source=gitlens&provider=github,jira&redirect_uri=https%3A%2F%2Flegendary-space-capybara-7vpqj6w5x7wq2p7x6.github.dev%2Fextension-auth-callback%3Fstate%3D669e34d1a4b715fc52e7e28ba851e4afhttps://github.com/CAHJagung/Cliwontea72/blob/25e204b75f5a83e0c0367906f578caaf17a69847/20241108_145131.jpghttps://github.com/CAHJagung/Cliwontea72/blob/25e204b75f5a83e0c0367906f578caaf17a69847/20241108_145131.jpg
+https://github.com/CAHJagung/Cliwontea72/blob/25e204b75f5a83e0c0367906f578caaf17a69847/20241108_145131.jpg
+git remote add origin https://github.com/CAHJagung/CHAJagung.git
+git branch -M main
+git push -u origin main
